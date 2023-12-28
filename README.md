@@ -32,8 +32,8 @@ After installation, you can add this to your ``.eslintrc`` file:
 ```json
 {
   "extends": [
-    "@jpaulo.dev/eslint-nextjs-config/standard",
-    "next/core-web-vitals"
+    "next/core-web-vitals",
+    "@jpaulo.dev/eslint-nextjs-config",
   ]
 }
 ```
