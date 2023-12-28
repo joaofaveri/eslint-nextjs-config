@@ -1,4 +1,3 @@
-```markdown
 # JPAULO.dev Next.js ESLint Config
 
 This package provides a standardized ESLint configuration tailored for projects using Next.js on JPAULO.dev. It aims to enforce consistent coding styles and best practices across your Next.js projects, helping to keep your codebase clean, readable, and maintainable.
@@ -58,4 +57,3 @@ module.exports = {
 Now, ESLint will use the standardized configuration provided by this package when linting your Next.js code.
 
 Happy coding!
-```
