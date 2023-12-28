@@ -1,0 +1,41 @@
+{
+  "name": "@jpaulo.dev/eslint-nextjs-config",
+  "version": "1.0.0",
+  "description": "This package provides a standardized ESLint configuration tailored for projects using Next.js. It aims to enforce consistent coding styles and best practices across your Next.js projects, helping to keep your codebase clean, readable, and maintainable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaofaveri/eslint-nextjs-config.git"
+  },
+  "keywords": [
+    "Next.JS",
+    "React",
+    "ESlint",
+    "Prettier"
+  ],
+  "author": "João Paulo de Faveri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaofaveri/eslint-nextjs-config/issues"
+  },
+  "homepage": "https://github.com/joaofaveri/eslint-nextjs-config#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.16.0",
+    "@typescript-eslint/parser": "^6.16.0",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^14.0.4",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-json": "^3.1.0",
+    "eslint-plugin-prettier": "^5.1.2",
+    "prettier": "^3.1.1",
+    "prettier-plugin-import-sort": "^0.0.7",
+    "prettier-plugin-organize-attributes": "^1.0.0",
+    "prettier-plugin-organize-imports": "^3.2.4",
+    "prettier-plugin-tailwindcss": "^0.5.10"
+  }
+}
